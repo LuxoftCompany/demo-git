@@ -1,3 +1,7 @@
-assets/
-protected/runtime/
-themes/classic/views/
+# Ignore everything
+*
+
+# But not these folders...
+!local/
+!favicon.ico
+# etc...
