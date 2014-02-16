@@ -1,7 +1,8 @@
 # Ignore everything
-*
-
+/*
+/*/
 # But not these folders...
-!local/
-!favicon.ico
+!/local/
+
 # etc...
+!favicon.ico
